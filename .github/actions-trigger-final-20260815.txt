@@ -1,0 +1,1 @@
+Trigger GitHub Actions after repository action permissions were updated.
